@@ -1,0 +1,12 @@
+{
+  "name": "refectory-ai",
+  "displayName": "refectory-ai",
+  "expo": {
+    "name": "refectory-ai",
+    "slug": "refectory-ai",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
